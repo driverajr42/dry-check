@@ -1,5 +1,5 @@
-import profile from "../assets/images/kemal.jpg";
+import logo from "../assets/water-check.png";
 
 export default {
-  profile,
+  logo,
 };
